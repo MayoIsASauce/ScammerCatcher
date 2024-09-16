@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Coding\\cs-app\\ScammerCatcher\\ScammerCatcher\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ScammerCatcher.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ScammerCatcher.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Coding\\cs-app\\ScammerCatcher\\ScammerCatcher\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Coding\\cs-app\\ScammerCatcher\\ScammerCatcher\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Coding\\cs-app\\ScammerCatcher\\ScammerCatcher\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Coding\\cs-app\\ScammerCatcher\\ScammerCatcher\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScammerCatcher.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ScammerCatcher.props",
+      "PackagePath": "build\\ScammerCatcher.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ScammerCatcher.props",
+      "PackagePath": "buildMultiTargeting\\ScammerCatcher.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ScammerCatcher.props",
+      "PackagePath": "buildTransitive\\ScammerCatcher.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

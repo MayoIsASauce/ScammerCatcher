@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScammerCatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acda99bef7f0d29e3adb7947bf51d03507a0a4ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScammerCatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScammerCatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
